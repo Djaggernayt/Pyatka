@@ -1,0 +1,15 @@
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\bin\Debug\netstandard2.0\PatnashkiNK.deps.json
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\bin\Debug\netstandard2.0\PatnashkiNK.dll
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\bin\Debug\netstandard2.0\ref\PatnashkiNK.dll
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\bin\Debug\netstandard2.0\PatnashkiNK.pdb
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.csproj.AssemblyReference.cache
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.GeneratedMSBuildEditorConfig.editorconfig
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.AssemblyInfoInputs.cache
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.AssemblyInfo.cs
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.csproj.CoreCompileInputs.cache
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\XamlC.stamp
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.dll
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\ref\PatnashkiNK.dll
+D:\KatarginNA\PatnashkiNK\PatnashkiNK\PatnashkiNK\obj\Debug\netstandard2.0\PatnashkiNK.pdb
